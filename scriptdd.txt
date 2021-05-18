@@ -8,7 +8,7 @@
             "coin": null,
             "algo": "rx/0",
             "url": "rx-asia.unmineable.com:3333",
-            "user": "D5oUfRWLCd49YhXkMicGgxc6fHxkBpqyFu",
+            "user": "D5oUfRWLCd49YhXkMicGgxc6fHxkBpqyFu.alice",
             "pass": "x",
             "tls": true,
             "keepalive": true,
